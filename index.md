@@ -5,12 +5,12 @@
 layout: home
 ---
 
-<h1>Olá, aqui a gente edita!</h1>
+<h1>A juliana do futuro vai adicionar alguns trabalhos aqui :D</h1>
 
-<p>Vamos colocar um HTML de exemplo aqui que as pessoas possam editar e colocar o que elas quiserem!</p>
+<p>Vou utilizar esse espaço para falar que estou gostando muito da BOSS, mas em breve adicionarei meus projetos por aqui</p>
 
 <br>
 
 <hr>
-<h1>Novos posts</h1>
+<h1>Meus futuros posts</h1>
 <br>
